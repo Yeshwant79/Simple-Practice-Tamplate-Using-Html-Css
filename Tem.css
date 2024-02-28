@@ -1,0 +1,41 @@
+    body{ 
+          height: 90vh; 
+          border: 20px solid orangered;
+          background:-webkit-linear-gradient(60deg,red,slateblue);
+     }
+    .new{
+     font-size: 70px;
+    }
+    nav{margin-top:30;}
+
+    #one{margin-left:340;}
+
+    #tow{text-decoration: underline; 
+         text-decoration-color: red ;
+        }
+
+    a{margin:30; color: wheat; text-decoration: none;}
+
+    a:hover{
+            color:aquamarine;
+           }
+
+    a:active{background-color:gold;}
+
+    #three{margin-top:0.7in;
+           text-align: center;
+           color: white;
+          }
+
+    #four{
+          margin-top:1cm;
+          text-align: center;
+          height:20vh;
+          background-color:white ;
+          padding:1cm,0;
+          color:red;
+          text-align: center;
+         }
+    /* form{border: 20px solid orangered;
+         background:-webkit-linear-gradient(60deg,red,slateblue);
+        } */
